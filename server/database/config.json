@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "books_manager",
+    "host": "115.29.243.9",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "123456",
+    "database": "books_manager",
+    "host": "115.29.243.9",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "123456",
+    "database": "books_manager",
+    "host": "115.29.243.9",
+    "dialect": "mysql"
+  }
+}
